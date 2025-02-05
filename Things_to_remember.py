@@ -94,3 +94,11 @@ def main():
 # leran more of Numpy and pandas for math and data analysis 
 
 # learn about package
+
+# rounding numbers in a string
+n = 0.029884663
+text = f'{n:.2f}'
+
+#use more 
+if __name__ == "__main__":
+    do something
