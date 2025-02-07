@@ -99,6 +99,18 @@ def main():
 n = 0.029884663
 text = f'{n:.2f}'
 
+# use "=" in f strings 
+x = 12 
+print(f'{x=}') # thw output is x=12
+
+# convert to %
+percent = 0.7563 
+print(f'{percent: .2%}') # thw output is 75.63%
+
+# fromating,  unsing < ^ > 
+text = indent
+print(f'{text:->5}') # thw output is -----indent
 #use more 
 if __name__ == "__main__":
     do something
+
