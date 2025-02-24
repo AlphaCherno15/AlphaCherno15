@@ -1,0 +1,72 @@
+{
+    "500 W Power Supply":{
+        "store":"amazon",
+        "url":"https://www.amazon.ca/dp/B014W3EM2W/?coliid=I29XPZ1MKR2T3H&colid=2DRSY1L4JRBTR&ref_=list_c_wl_lv_ov_lig_dp_it&th=1",
+        "price": 40
+        },
+    "7 inc hdmi screen": {
+        "store":"amazon",
+        "url":"https://www.amazon.ca/dp/B0CRRB1GFN/?coliid=I389O4WLFRCAB9&colid=2DRSY1L4JRBTR&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+        "price": 50
+        },
+    "Edifier MR4":{
+        "store":"amazon",
+        "url":"https://www.amazon.ca/dp/B09DKV849B/?coliid=I3IGX7C8168Y0X&colid=38FBJ6GLXAK58&ref_=list_c_wl_lv_ov_lig_dp_it&th=1",
+        "price": 115
+        },
+    "Edifier T5 Subwoofer":{
+        "store":"amazon",
+        "url":"https://www.amazon.ca/dp/B07Z58GD12/?coliid=I33HQRX27L11XX&colid=38FBJ6GLXAK58&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+        "price": 150
+    },
+    "YOGA LEGGING":{
+        "store":"amazon",
+        "url":"https://www.amazon.ca/CRZ-YOGA-Womens-Thermal-Leggings/dp/B07Y4XLXN3?pd_rd_w=f7ecD&content-id=amzn1.sym.f0d04575-74cf-4c12-b1c8-3ff929544348%3Aamzn1.symc.cb15e6ef-dda0-4490-a93d-da66403ab544&pf_rd_p=f0d04575-74cf-4c12-b1c8-3ff929544348&pf_rd_r=FEMNCEVA2386BCEKB2H4&pd_rd_wg=e6YtJ&pd_rd_r=a4d0d350-672c-427b-aa4f-c53117e781c3&pd_rd_i=B07Y4XLXN3&th=1&psc=1",
+        "price": 47
+    },
+    "Silicone Cake pan 6in":{
+        "store":"amazon",
+        "url":"https://www.amazon.ca/Silicone-Non-Stick-Suitable-Cheesecake-Chocolate/dp/B091CVNQN4?pd_rd_w=1sj2u&content-id=amzn1.sym.f0d04575-74cf-4c12-b1c8-3ff929544348%3Aamzn1.symc.cb15e6ef-dda0-4490-a93d-da66403ab544&pf_rd_p=f0d04575-74cf-4c12-b1c8-3ff929544348&pf_rd_r=8BYHRDK5D485DNR35MPA&pd_rd_wg=Ed7mF&pd_rd_r=81263404-83f5-4e6f-b6e4-ef3c06748ffa&pd_rd_i=B091CVNQN4&th=1",
+        "price": 12
+    },
+    "Mop head refil":{
+        "store":"amazon",
+        "url":"https://www.amazon.ca/dp/B07TK43RS3?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1",
+        "price": 13
+    },
+    "wait":{
+        "store":"wait",
+        "url":"",
+        "price": 0
+    },
+    "Edifier MR3":{
+        "store":"amazon",
+        "url":"https://www.amazon.ca/dp/B0DGXTBQTY/?coliid=I2RUODDRQHLTUJ&colid=38FBJ6GLXAK58&ref_=list_c_wl_lv_ov_lig_dp_it&th=1",
+        "price": 115
+    },
+    "Noctua NH-D15":{
+        "store":"amazon",
+        "url":"https://www.amazon.ca/dp/B00L7UZMAK/?coliid=I3R38V83UBQ52G&colid=2DRSY1L4JRBTR&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+        "price": 100
+    },
+    "Sansung evo 1TB":{
+        "store":"amazon",
+        "url":"https://www.amazon.ca/dp/B0CRCC9863/?coliid=I16WSPCNPSI8CD&colid=2DRSY1L4JRBTR&ref_=list_c_wl_lv_ov_lig_dp_it&th=1",
+        "price": 115
+    },
+    "AMD Ryzen 7 7800x3D":{
+        "store":"newegg",
+        "url":"https://www.newegg.ca/amd-ryzen-7-7800x3d-ryzen-7-7000-series-raphael-zen-4-socket-am5/p/N82E16819113793?Item=N82E16819113793",
+        "price": 600
+    },
+    "GIGABYTE X870 AORUS ELITE":{
+        "store":"newegg",
+        "url":"https://www.newegg.ca/p/N82E16813145518?Item=N82E16813145518",
+        "price": 380
+    },
+    "Corsair Vengance 32GB":{
+        "store":"newegg",
+        "url":"https://www.newegg.ca/corsair-32gb-ddr5-6000/p/N82E16820982110?Item=N82E16820982110",
+        "price": 120
+    }      
+}

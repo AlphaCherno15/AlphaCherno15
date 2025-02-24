@@ -1,0 +1,2 @@
+Looking for the Edifier MR4 the error "could not convert string to float: 'Page 1 of 1'" orccured
+Looking for the YOGA LEGGING the error "could not convert string to float: ' '" orccured
