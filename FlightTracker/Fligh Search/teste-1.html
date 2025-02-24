@@ -1,0 +1,23 @@
+<!-- filepath: /c:/Users/alpha/Desktop/CODES/Treino/Day39/Fligh Search/templates/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flight Data</title>
+</head>
+<body>
+    <h1>Flight Data</h1>
+    <h2>Cheapest Flight Price: {{ cheap }}</h2>
+    <ul>
+        {% for flight_id, flight in flights.items() %}
+            <li>
+                <strong>Flight ID:</strong> {{ flight_id }}<br>
+                <strong>Price:</strong> {{ flight.price }}<br>
+                <strong>Destination:</strong> {{ flight.destination }}<br>
+                <strong>Class:</strong> {{ flight.class }}
+            </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
